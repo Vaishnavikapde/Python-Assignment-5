@@ -1,5 +1,5 @@
 # Python-Assignment-5
-# Assignment 5: Data Structures and Strings in Python
+## Assignment 5: Data Structures and Strings in Python
 
 This repository contains solutions to **Assignment 5** from Module 6 of the Python programming course. It includes two tasks that demonstrate working with dictionaries, user input, lists, and slicing.
 
